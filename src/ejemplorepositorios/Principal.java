@@ -31,6 +31,8 @@ public class Principal {
         c1.ingresar(200);
         
         System.out.println("Ya tenemos "+c1.estado()+" en nuestra cuenta");
+        
+        System.out.println("Esto es para la segunda version");
     }
     
 }
